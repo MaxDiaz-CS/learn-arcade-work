@@ -58,8 +58,8 @@ def draw_triangle_two(x, y):
 
 def on_draw(delta_time):
     arcade.start_render()
-    draw_ocean()
     draw_sun(on_draw.sun1_y, 500)
+    draw_ocean()
     draw_cloud(on_draw.cloud1_y, 375)
     draw_cloud_second(on_draw.cloud2_y, 300)
     draw_rect(on_draw.rect1_y, 200)
