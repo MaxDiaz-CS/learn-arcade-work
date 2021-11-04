@@ -69,6 +69,7 @@ class MyGame(arcade.Window):
 
         # Don't show the mouse cursor
         self.set_mouse_visible(False)
+        # Sound files comes from sound pack in kenney.nl
         self.coin_sound = arcade.load_sound("handleCoins2.ogg.")
         self.meteorhit_sound = arcade.load_sound("impactMetal_heavy_004.ogg")
 
