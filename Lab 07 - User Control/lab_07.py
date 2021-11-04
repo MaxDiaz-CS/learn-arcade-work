@@ -107,6 +107,7 @@ class MyGame(arcade.Window):
         super().__init__(width, height, title)
 
         # Load the sound when the game starts
+        # Sound files comes from sound pack in kenney.nl
         self.laser_sound = arcade.load_sound("impactBell_heavy_001.ogg")
         self.error_sound = arcade.load_sound("impactMetal_heavy_000.ogg")
 
