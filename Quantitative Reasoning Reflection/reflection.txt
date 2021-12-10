@@ -1,0 +1,52 @@
+Maximo Diaz
+12/9/2021
+
+                 Quantitative Reasoning Reflection
+
+1. In programming, you learn how to implement quantitative methods into your
+code. Quantitative Methods, in the simplest term, are the way how to gather and
+analyze the given numbers or information and determine a possible outcome based
+on the information provided. An example of Quantitative methods is through the
+usage of loops. The concept of loops is a guessing game that ends until the
+computer finds the correct answer. Now apply that concept at a larger scale;
+let’s say you are given an array of random numbers to arrange them based on
+chronological order. You can create a loop that determines which number is
+greater or lesser, and the loop will continue until it fulfills its goal of
+organizing it. Loops can also apply in multiple ways, from organizing data to
+creating cool designs.
+
+2.I can’t help but emphasize the importance of maintaining your code
+understandable not only for yourself but also for programmers working on the same
+project. Our professor stated that he wanted our code to be easy to understand
+that even the average joe can understand what is going and how you get to that
+solution. I know it’s much easier and quicker to use single letter name schemes
+like replacing the temperature class with just the letter T.  I can reassure
+you that when you come back a day later or even half of the year, you will
+have a hard time understanding your code. The result will be you starting from
+scratch. Programmers should adopt more descriptive names and comments in their
+coding to give future programmers peace of mind.
+
+3.I’m able to evaluate whether the code is functioning as it is supposed by
+simply running the code. Usually, IDE gives you an error output determining the
+source of the error. Based on that information alone, I typically go back and
+fix the mistake. The reason is that most code errors are simple mistakes like
+missing paratheses, misspelling a class, or even inputting the wrong number.
+There are some occasions when there are little bit more complex. My back plan is
+to look at the given sample code then use it to verify with my code and determine
+whether it has severe code errors. If I’m genuinely stumped on the error, I
+seek help from my peers to guide me in the right direction or even ask the
+professor for help since it’s not a crime to ask for help for something you
+are stuck on.
+
+4.The limitations of the numerical methods are that it ignores the emotional side
+of humans and the unpredictable aspect of nature. This is why algorithms can’t
+replace humans, because an algorithm states what data is, whether it is good or
+bad. On the other hand, humans have to factor in the given data and have human
+unpredictability. There are some things that algorithms can’t factor in, like
+a student’s learning disability that results in the individual having poor test
+scores or sometimes teachers having bad days resulting in their poor performance
+, usually out of their control. Also, there’s an example of athletes that seems
+that their career seems over based on their stats, then suddenly they make a
+comeback and win a championship like Michael Jordan or the Chicago Cubs.
+Numerical methods should instead be use as guidance for making decisions rather
+than the ones making the decisions.
